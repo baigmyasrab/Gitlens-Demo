@@ -10,9 +10,11 @@ body{
     width: 100vw;
     height: 100vh;
     padding: 0;
-    background-color: rgb(34, 34, 34);
+    background-color: rgb(34, 105, 187);
 }
 .container h1{
-    color: rgb(214, 218, 0);
+    color: rgb(255, 255, 255);
     font-size: 5em;
+    text-decoration: overline underline;
+    text-transform: lowercase;
 }
